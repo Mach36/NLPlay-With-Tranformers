@@ -25,3 +25,4 @@ Progress report of 'NLPlay with Transformers'
 - made a sentiment classifier using Feed Forwarded NN <br> 
   for this IMDB movie review dataset was used <br>
   for this task simple BOW(bag-of-words) representation was used
+  reached accuracy of %
