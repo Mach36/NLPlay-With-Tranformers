@@ -16,3 +16,12 @@ Progress report of 'NLPlay with Transformers'
 
 ## Week-3
 - made a numerical classifier using MNIST dataset for practice
+- saw numerous advancements in deep NLP in detail
+<hr>
+
+## Post mid-sem week
+- further explored the applications of deep NLP
+- learned to use various types of word embeddings
+- made a sentiment classifier using Feed Forwarded NN <br> 
+  for this IMDB movie review dataset was used <br>
+  for this task simple BOW(bag-of-words) representation was used
