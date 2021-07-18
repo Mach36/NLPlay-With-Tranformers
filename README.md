@@ -36,7 +36,7 @@ Progress report of 'NLPlay with Transformers'
   <hr>
   
 ## Week-5
-- Understood the basics of Transformers (BERT and others) and their working.
+- learned what a transformer is and how it works
 <hr>
 
 ## Week-6
