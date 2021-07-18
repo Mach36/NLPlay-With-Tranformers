@@ -52,6 +52,7 @@ Progress report of 'NLPlay with Transformers'
 ## Week-8
 - saw what **GPT-2** and **T5** are
 - learned how to generate text using **transformers**
+- created a custom dataset
 - generated text using GPT-2 
 - analysed output by calculating the **BLEU Score**
 <hr>
