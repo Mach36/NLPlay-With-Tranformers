@@ -29,25 +29,29 @@ Progress report of 'NLPlay with Transformers'
 - learned how a recurrent neural network works
 - made a ***sentiment classifier*** using RNN <br>
   for this the same IMDB movie review dataset was used <br>
-  reached accuracy of **87.28%
+  reached accuracy of **87.28%**
 - learned the LSTM and GRU models
 - implemented these in the sentiment classifier <br>
-  reached accuracy of **86.51%** and **89.86%
+  reached accuracy of **86.51%** and **89.86%**
   <hr>
   
 ## Week-5
 - Understood the basics of Transformers (BERT and others) and their working.
+<hr>
 
 ## Week-6
 - made ***sentiment classifiers*** using BERT
 - reached accuracy of **90.36%**
+<hr>
 
 ## Week-7
 - made ***sentiment classifiers*** using RoBERTa
-- reached accuracy of **91.02%
+- reached accuracy of **91.02%**
+<hr>
 
 ## Week-8
 - saw what **GPT-2** and **T5** are
-- learned how to generate text using **transformers
+- learned how to generate text using **transformers**
 - generated text using GPT-2 
-- analysed output by calculating the **BLEU Score
+- analysed output by calculating the **BLEU Score**
+<hr>
